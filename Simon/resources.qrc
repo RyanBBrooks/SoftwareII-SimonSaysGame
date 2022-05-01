@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>blue.wav</file>
+        <file>failure.wav</file>
+        <file>nextLevel.wav</file>
+        <file>red.wav</file>
+    </qresource>
+</RCC>
